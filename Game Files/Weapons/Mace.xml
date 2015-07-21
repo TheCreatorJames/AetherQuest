@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Item>
+  <durability>
+    <min>70</min>
+    <max>100</max>
+  </durability>
+  <attack>
+    <min>1</min>
+    <max>10</max>
+  </attack>
+  <speed>
+    <min>1</min>
+    <max>10</max>
+  </speed>
+  <name>
+    Mace
+  </name>
+  <adjectives>
+    Jolly,
+    Happy,
+    Angry,
+    Electric,
+    Long,
+    Short,
+    Hard,
+    The Flaming ,
+    The Jolly ,
+    Santa Claus's ,
+    Painful
+  </adjectives>
+</Item>

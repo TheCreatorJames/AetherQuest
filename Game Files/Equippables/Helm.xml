@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Item>
+  <durability>
+    <min>50</min>
+    <max>100</max>
+  </durability>
+  <EquipSlot>
+    HELM
+  </EquipSlot>
+  <name>
+    Helm
+  </name>
+  <adjectives>
+    A,
+    A Cool,
+    Blue,
+    Dirty,
+    Christmas
+  </adjectives>
+</Item>

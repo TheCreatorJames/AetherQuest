@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Item>
+  <durability>
+    <min>50</min>
+    <max>100</max>
+  </durability>
+  <EquipSlot>
+    CHEST
+  </EquipSlot>
+  <name>
+    Shirt
+  </name>
+  <adjectives>
+    A,
+    A Cool,
+    Blue,
+    A CSSA,
+    A Red CSSA,
+    Short,
+    Dirty,
+    Christmas
+  </adjectives>
+</Item>

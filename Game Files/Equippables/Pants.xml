@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Item>
+  <durability>
+    <min>50</min>
+    <max>100</max>
+  </durability>
+  <EquipSlot>
+    LEGS
+  </EquipSlot>
+  <name>
+    Pants
+  </name>
+  <adjectives>
+    Short,
+    Dirty,
+    Christmas
+  </adjectives>
+</Item>

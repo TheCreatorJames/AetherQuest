@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Item>
+  <durability>
+    <min>10</min>
+    <max>100</max>
+  </durability>
+  <attack>
+    <min>1</min>
+    <max>10</max>
+  </attack>
+  <speed>
+    <min>1</min>
+    <max>10</max>
+  </speed>
+  <name>
+    Sword
+  </name>
+  <adjectives>
+    Jolly,
+    Happy,
+    Angry,
+    Electric,
+    Long,
+    Short,
+    Hard,
+    Burning,
+    A Jolly,
+    A Flaming,
+    The Holy,
+    The Godless,
+    The Unholy,
+    Alex's,
+    Jesse's,
+    Soren's,
+    Tavian's,
+    Santa Claus's,
+    Steve Job's
+  </adjectives>
+</Item>
