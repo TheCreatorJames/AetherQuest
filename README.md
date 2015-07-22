@@ -7,7 +7,7 @@ The project asked us to make a retro-side scroller game, and we opted to make a 
 
 We had several months to implement and design it in our free time, while juggling responsibilities like High School and extracurricular activities like Marching Band.
 
-
+We were not allowed to use game engine libraries (except for rendering usage), and implemented the game ourselves. I had no prior experience to making games before this, or graphics, or handling input myself, aside from a quick HTML engine.
 
 ### Contest Information
 For information on the contest that year : 
