@@ -19,4 +19,4 @@ For a video of the game :
   
   
   ### How did it do? 
-    It advanced us to Nationals. We placed in the top ten teams.
+  It advanced us to Nationals. We placed in the top ten teams.
