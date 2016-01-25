@@ -9,6 +9,11 @@ We had several months to implement and design it in our free time, while jugglin
 
 We were not allowed to use game engine libraries (except for rendering usage), and implemented the game ourselves. I had no prior experience to making games before this, or graphics, or handling input myself, aside from a quick HTML engine.
 
+
+### Sample Image
+
+[Imgur AetherQuest Image](http://i.imgur.com/1ie9w91.png)
+
 ### Contest Information
 For information on the contest that year : 
 http://web.archive.org/web/20140517040742/http://bpatechnical.org/
