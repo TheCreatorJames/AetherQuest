@@ -12,7 +12,7 @@ We were not allowed to use game engine libraries (except for rendering usage), a
 
 ### Sample Image
 
-[!Image](http://i.imgur.com/1ie9w91.png)
+![AetherQuest Image](http://i.imgur.com/1ie9w91.png)
 
 ### Contest Information
 For information on the contest that year : 
