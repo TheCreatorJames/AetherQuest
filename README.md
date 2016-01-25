@@ -14,6 +14,15 @@ We were not allowed to use game engine libraries (except for rendering usage), a
 
 ![AetherQuest Image](http://i.imgur.com/1ie9w91.png)
 
+
+### Some Notes
+
+The lighting was done by creating a shadowmap. Lighting was applied to the shadowmap, to make it lighter, then the shadows were drawn to the screen. 
+
+The music was made from midi files we composed, put through a filter to make it sound 8-bit. 
+
+We tried using some design patterns we had just learned at the time, like factory methods. We were not very experienced developers. 
+
 ### Contest Information
 For information on the contest that year : 
 http://web.archive.org/web/20140517040742/http://bpatechnical.org/
