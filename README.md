@@ -31,5 +31,9 @@ http://web.archive.org/web/20140517040742/http://bpatechnical.org/
 For a video of the game : 
   https://www.youtube.com/watch?v=9EoDl1o76hQ
   
+### Soundcloud
+For some of the music from the game :
+  https://soundcloud.com/jesse-mitchell-9/sets/aetherquest
+  
 ### How did it do? 
   It advanced us to Nationals. We placed in the top ten teams.
